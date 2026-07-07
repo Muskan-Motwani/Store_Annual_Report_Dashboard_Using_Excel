@@ -75,13 +75,7 @@ Users can filter the dashboard to instantly update all charts and visualizations
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
-
-Example:
-
-```markdown
-![Store Annual Dashboard](Images/Store_Annual_Dashboard.png)
-```
+![Store Annual Dashboard](Store_Annual_Dashboard.png)
 
 ---
 
